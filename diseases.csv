@@ -2,7 +2,7 @@ Disease,Probability
 Heart disease,0.235312533
 Cancer,0.2252147
 COPD,0.057452985
-Injuries,0.049664362
+Pain,0.049664362
 Stroke,0.032640442
 Alzheimer's,0.029102119
 Diabetes,0.021940375
