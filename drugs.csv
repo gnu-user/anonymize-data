@@ -1,0 +1,183 @@
+Disease,Medication Name,Product Name,Probability
+Heart disease,quinapril,Accupril,0.405272534
+Heart disease,perindopril,Aceon,0.299882013
+Heart disease,ramipril,Altace,0.788092614
+Heart disease,catopril,Capoten,0.471859783
+Heart disease,benazepril,Lotensin,0.773199914
+Heart disease,trandolapril,Mavik,0.778620577
+Heart disease,fosinopril,Monopril,0.268900318
+Heart disease,lisinopril,Prinivil,0.388735937
+Heart disease,lisinopril,Zestril,0.211204529
+Heart disease,moexipril,Univasc,0.522892503
+Heart disease,enalapril,Vasotec,0.275856959
+Heart disease,eplerenone,Inspra,0.453029224
+Heart disease,spironolactone,Aldoctone,0.448210873
+Heart disease,Azilsartan,Edarbi,0.376003559
+Heart disease,Candesartan,Atacand,0.512238023
+Heart disease,Eprosartan,Teveten,0.256894711
+Heart disease,Irbesartan,Avapro,0.494541906
+Heart disease,Losartan,Cozaar,0.169751403
+Heart disease,Olmesartan,Benicar,0.295321325
+Heart disease,Telmisartan,Micardis,0.653192527
+Heart disease,Valsartan,Diovan,0.649207784
+Heart disease,Acebutolol,Sectral,0.098619103
+Heart disease,Atenolol,Tenormin,0.461904884
+Heart disease,Bisoprolol,Zebeta,0.672059998
+Heart disease,Metoprolol,Lopressor,0.083400092
+Heart disease,Nadolol,Corgard,0.127590284
+Heart disease,Propanolol,Inderal,0.178863053
+Cancer,Bortezomib,Velcade,0.110227296
+Cancer,Chlorambucil,Leukeran,0.578972769
+Cancer,Cyclophosphamide,Cytoxan,0.223931658
+Cancer,Gemcitabine,Gemzar,0.49708454
+Cancer,Imatinib,Gleevec,0.351988302
+Cancer,Irinotecan,Camptosar,0.749018778
+Cancer,Irinotecan Liposome,Onivyde,0.638342594
+Cancer,Methotrexate,Rheumatrex,0.720183793
+Cancer,Oxaliplatin,Eloxatin,0.137257714
+Cancer,Trastuzumab,Herceptin,0.732733484
+COPD,Albuterol,Vospire,0.611661295
+COPD,Levalbuterol,Xopenex,0.210781571
+COPD,Ipratropium,Atrovent,0.721241692
+COPD,Fluticasone,Flovent,0.153374249
+COPD,Budesonide,Pulmicort,0.407089595
+COPD,Theophylline,Theolair,0.337835867
+COPD,Tiotropium,Spiriva,0.761046875
+COPD,Salmeterol,Serevent,0.323954652
+COPD,Formoterol,Floradil,0.660108708
+COPD,Arformoterol,Brovana,0.22858345
+COPD,Indacaterol,Arcapta,0.022216205
+COPD,Aclidinium,Tudorza,0.227846558
+Pain,Fenoprofen,Nalfon,0.780220308
+Pain,Flurbiprofen,Ansaid,0.317236045
+Pain,Ketoprofen,Oruvail,0.595109332
+Pain,Oxaprozin,Daypro,0.644985659
+Pain,Diclofenac Sodium,Voltaren,0.65612051
+Pain,Etodolac,Lodine,0.609827239
+Pain,Indomethacin,Indocin,0.030520747
+Pain,Ketorolac,Toradol,0.745230057
+Pain,Sulindac,Clinoril,0.603327031
+Pain,Tolmetin,Tolectin,0.469331458
+Pain,Meclofenamate,Meclomen,0.572037875
+Pain,Mefanamic Acid,Ponstel,0.296604004
+Pain,Nabumetone,Relafen,0.738722761
+Pain,Piroxicam,Feldene,0.286806779
+Pain,Celecoxib,Celebrex,0.61456477
+Pain,Buprenorphine,Buprenex,0.205856305
+Pain,Butorphanol,Stadol,0.429277425
+Pain,Hydromorphone,Dilaudid,0.635757843
+Pain,Levorphanol,Levo-Dromoran,0.282826793
+Pain,Meperidine,Demerol,0.069542242
+Pain,Methadone,Dolophine,0.308515872
+Pain,Morphine,Duramorph,0.087486489
+Pain,Nalbuphine,Nubain,0.693186319
+Pain,Oxycodone,OxyContin,0.483346159
+Pain,Oxymorphone,Numorphan,0.139453479
+Pain,Pentazocine,Talwin,0.768068137
+Pain,Propoxyphene,Darvon,0.357951449
+Pain,Tapentadol,Nucynta,0.662203975
+Stroke,Warfarin,Coumadin,0.634912421
+Stroke,Aspirin,Bayer Aspirin,0.233238538
+Stroke,Dipyridamole,Aggrenox,0.21659818
+Stroke,Arformoterol,Plavix,0.123631963
+Alzheimer's,Donepezil,Aricept,0.398895433
+Alzheimer's,Rivastigmine,Exelon,0.471683753
+Alzheimer's,Galantamine,Razadyne,0.390720106
+Diabetes,Acarbose,Precose,0.048383492
+Diabetes,Albiglutide,Tanzeum,0.742842415
+Diabetes,Alogliptin,Nesina,0.731422699
+Diabetes,Alogliptin metformin,Kazano,0.26195116
+Diabetes,Alogliptin pioglitazone,Oseni,0.723485177
+Diabetes,Bromocriptine mesylate,Cycloset,0.054315964
+Diabetes,Canaglifozin,Invokana,0.576611478
+Diabetes,Canaglifozin metformin,Invokamet,0.280387716
+Diabetes,Dapagliflozin,Farxiga,0.05337106
+Diabetes,Dapagliflozin metformin,Xigduo,0.351525255
+Diabetes,Dulaglutide,Trulicity,0.385522064
+Diabetes,Empagliflozin,Jardiance,0.621060641
+Diabetes,Empagliflozin linagliptin,Glyxambi,0.330598109
+Diabetes,Empagliflozin metformin,Synjardy,0.589805252
+Diabetes,Exenatide,Byetta,0.507778675
+Diabetes,Glimepiride,Amaryl,0.362060184
+Diabetes,Glyburide,DiaBeta,0.143444822
+Diabetes,Glyburide metformin,Glucovance,0.130842747
+Diabetes,Insulin aspart,NovoLog,0.425244451
+Diabetes,Insulin Degludec,Tresiba,0.321224534
+Diabetes,Insulin Glargine,Lantus,0.610262127
+Diabetes,Insulin Isophane,Humulin,0.168086365
+Diabetes,Insulin Lispro,Humalog,0.189920991
+Diabetes,Linagliptin,Tradjenta,0.571474128
+Diabetes,Liraglutide,Victoza,0.662350087
+Diabetes,Metformin,Glucophage,0.092030974
+Diabetes,Miglitol,Glyset,0.179682459
+Diabetes,Nateglinide,Starlix,0.595295815
+Diabetes,Pioglitazone,Actos,0.737639331
+Diabetes,Repaglinide,Prandin,0.473622797
+Diabetes,Rosiglitazone,Avandia,0.376802475
+Diabetes,Saxagliptin,Onglyza,0.448685012
+Diabetes,Sitagliptin,Januvia,0.680225913
+Influenza,Amantadine,Symmeterel,0.182765468
+Influenza,Rimantadine,Flumadine,0.273828795
+Influenza,Oseltamivir,Tamiflu,0.130493277
+Influenza,Zanamivir,Relenza,0.578629828
+Pneumonia,Azithromycin,Zithromax,0.178582918
+Pneumonia,Clarithromycin,Biaxin,0.621819749
+Pneumonia,Erythromycin,Eryc,0.10217266
+Pneumonia,Doxycycline,Doryx,0.534272177
+Pneumonia,Gemifloxacin,Factive,0.507817166
+Pneumonia,Levofloxacin,Levaquin,0.383472235
+Pneumonia,Moxifloxacin,Avelox,0.308062392
+Pneumonia,Cefuroxime,Ceftin,0.724659664
+Pneumonia,Cephalexin,Keflex,0.494970723
+Pneumonia,Amoxicillin clavulanate,Augmentin,0.078987943
+Pneumonia,Ticarcillin clavulnanate,Timentin,0.368537907
+Pneumonia,Vancomycin,Vancocin,0.746996052
+Nephritis,Erythropoietin,Procrit,0.540934431
+Nephritis,Iron,Ferrlecit,0.409157139
+Nephritis,Iron,Venofer,0.519720631
+Nephritis,Calcium acetate,PhosLo,0.714055585
+Nephritis,Sevelamer,Renagel,0.399626576
+Nephritis,Sevelamer carbonate,Renvela,0.053005459
+Nephritis,Lanthanum carbonate,Fosrenol,0.440701525
+Nephritis,Calcitriol,Rocaltrol,0.470579132
+Nephritis,Doxercalciferol,Hectorol,0.503623743
+Nephritis,Paricalcitol,Zemplar,0.052587016
+Nephritis,Cinacalcet,Sensipar,0.165707971
+Depression,Ariprazole,Abilify,0.783552225
+Depression,Doxepin,Adapin,0.072080216
+Depression,Clomipramine,Anafranil,0.703924859
+Depression,Bupropion,Aplenzil,0.412846829
+Depression,Amoxapine,Asendin,0.192232167
+Depression,Nortriptyline,Aventyl,0.086109568
+Depression,Vortioxetine,Brintellix,0.745171761
+Depression,Citalopram,Celexa,0.217107685
+Depression,Duloxetine,Cymbalta,0.068723661
+Depression,Trazodone,Desyrel,0.682228368
+Depression,Venlafaxine,Effexor,0.579256761
+Depression,Selegiline,Emsam,0.483674228
+Depression,Perphenazine amitriptyline,Etrafon,0.493440114
+Depression,Amitriptyline,Elavil,0.380504446
+Depression,Levomilnacipran,Fetzima,0.32371052
+Depression,Desvenlafaxine,Khedezla,0.523804639
+Depression,Lurasidone,Latuda,0.014969091
+Depression,Lamotrigine,Lamictal,0.165020971
+Depression,Escitalopram,Lexapro,0.260080551
+Depression,Amitriptyline chlordiazepoxide,Limbitrol,0.477198017
+Depression,Isocarboxazid,Marplan,0.131739415
+Depression,Phenelzine,Nardil,0.733663725
+Depression,Desipramine,Norpramin,0.218114111
+Depression,Trazodone,Oleptro,0.640891128
+Depression,Nortriptyline,Pamelor,0.150516038
+Depression,Tranylcypromine,Parnate,0.488047882
+Depression,Paroxetine,Paxil,0.355090611
+Depression,Fluoxetine,Prozac,0.238765972
+Depression,Mirtazapine,Remeron,0.379676278
+Depression,Quuetiapine,Seroquel,0.782759752
+Depression,Nefazodone,Serzone,0.069489873
+Depression,Doxepin,Sinequan,0.769769723
+Depression,Trimipramine,Surmontil,0.783136087
+Depression,Imipramine,Tofranil,0.108324797
+Depression,Vilazodone,Viibryd,0.105524132
+Depression,Protriptyline,Vivactil,0.270031975
+Depression,Sertaline,Zoloft,0.249303011
+Depression,Olanzapine,Zyprexa,0.609932172
