@@ -166,7 +166,7 @@ $$
       END LOOP;
     END LOOP;
   END;
-$$
+$$;
 
 
 CREATE VIEW insurance_view AS 
